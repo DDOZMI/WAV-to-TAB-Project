@@ -1,6 +1,6 @@
 # WAV-to-TAB-Project
 ***인공지능응용/게임프로그래밍패턴 기말 프로젝트***<br>
-시연 영상: https://youtu.be/I-hnv9Tibk4
+**시연 영상:**<br>
 [![Video Label](http://img.youtube.com/vi/I-hnv9Tibk4/0.jpg)](https://youtu.be/I-hnv9Tibk4)
 
 **1.**
