@@ -25,4 +25,4 @@ tuttut에서 제시하는 MIDI-to-TAB 알고리즘을 하나의 코드로 리팩
 streamlit으로 web app을 만들고 WAV음원 또는 YouTube링크로부터 음원을 추출하여 TAB 변환을 시도.
 
 
-기존 Guitarset에서 제시하는 방식대로 TAB을 구성한 것이 아니기 때문에 정확도를 보장하지 않습니다.
+**※정확도를 보장하지 않습니다**
