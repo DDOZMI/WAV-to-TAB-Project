@@ -9,7 +9,7 @@ Guitarset (https://guitarset.weebly.com/)
 학습한 모델을 이용하여 WAV-to-MIDI 변환 코드 생성.
 
 **3.**
-tuttut (https://github.com/natecdr/tuttut?tab=MIT-1-ov-file)
+tuttut (https://github.com/natecdr/tuttut?tab=MIT-1-ov-file)<br>
 tuttut에서 제시하는 MIDI-to-TAB 알고리즘을 하나의 코드로 리팩터링.
 
 **4.**
